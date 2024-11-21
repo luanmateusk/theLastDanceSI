@@ -1,0 +1,10 @@
+Domain/bin/*
+Domain/obj/*
+Infrastructure/bin/*
+Infrastructure/obj/*
+Terminal/bin/*
+Terminal/obj/*
+Tests/UnitTest/bin/*
+Tests/UnitTest/obj/*
+Tests/FactoryTest/bin/*
+Tests/FactoryTest/obj/*
